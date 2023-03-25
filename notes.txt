@@ -1,0 +1,20 @@
+How to initialize node Js project:
+--> npm init -y
+
+How to initializa Express Js:
+--> npm i Express
+
+To start server :
+--> node server.js
+
+Live Server Reload:
+--> npm i -g nodemon
+
+Run Live server as:
+--> nodemon server.js
+
+install multer : this will help node js application to take multiple file
+--> npm i multer
+
+install this library to merge a pdf:
+--> npm i pdf-merger-js
